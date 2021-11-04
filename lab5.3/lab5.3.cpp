@@ -8,7 +8,7 @@ int main()
 {
 	double qp, qk, z;
 	int n;
-	cout << h(2) << endl;
+	
 	cout << "qp = "; cin >> qp;
 	cout << "qk = "; cin >> qk;
 	cout << "n = "; cin >> n;
